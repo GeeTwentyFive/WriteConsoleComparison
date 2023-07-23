@@ -1,2 +1,4 @@
-# WriteConsoleComparison
-A program which compares the execution time between WriteConsoleA() and WriteConsoleW()
+# Results
+Surprisingly, WriteConsoleW\(\) seems to be ~1-2% faster!
+
+https://docs.google.com/spreadsheets/d/1RZfD4_QwnCEmvfo9dcYnyiFRSwuzSfoAdSo6nMe_3mo/edit?usp=sharing
